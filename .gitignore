@@ -34,3 +34,6 @@ wheels/
 
 # Environment variables
 .env
+
+# CSV Data folder
+data/CSV/*
