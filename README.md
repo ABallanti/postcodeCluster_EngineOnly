@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/d14149fd-5097-4a5e-9092-97dda617f0cb)
+
 # Postcode Clustering Engine
 
 A Python-based tool for AI-based clustering UK postcodes into geographical (given) number of groups,  visualizing them on an interactive map and also providing the XLSX outputs.
@@ -22,5 +24,3 @@ A Python-based tool for AI-based clustering UK postcodes into geographical (give
 ## Installation
 
 1. Clone the repository:
-
-![image](https://github.com/user-attachments/assets/ca034a0f-07dc-4d22-85b4-0f7d9d3684e9)
