@@ -60,7 +60,7 @@ def get_coordinates(postcode, geolocator=None, retries=None):
             # Running as script
             base_path = os.path.dirname(__file__)
 
-        data_dir = os.path.join(base_path, 'data', 'Data', 'CSV')
+        data_dir = os.path.join(base_path, 'postcode_coordinates', 'CSV')
         file_path = os.path.join(data_dir, f"{prefix.lower()}.csv")
 
         # Add debug logging
