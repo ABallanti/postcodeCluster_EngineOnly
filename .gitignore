@@ -36,4 +36,4 @@ wheels/
 .env
 
 # CSV Data folder
-data/CSV/*
+postcode_coordinates/CSV/*
