@@ -22,3 +22,5 @@ A Python-based tool for AI-based clustering UK postcodes into geographical (give
 ## Installation
 
 1. Clone the repository:
+
+![image](https://github.com/user-attachments/assets/ca034a0f-07dc-4d22-85b4-0f7d9d3684e9)
