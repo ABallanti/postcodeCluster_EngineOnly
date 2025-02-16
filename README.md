@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/715d0238-eb30-4cd5-93e5-b7df8316368d)
+![image](https://github.com/user-attachments/assets/22a590ab-c262-453f-95e7-cceda848d4d8)
 
 # Postcode Clustering Engine
 
